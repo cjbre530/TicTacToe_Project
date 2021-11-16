@@ -1,0 +1,11 @@
+C:\Users\Cameron\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Tic Tac Toe Game.exe.config
+C:\Users\Cameron\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Tic Tac Toe Game.exe
+C:\Users\Cameron\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Tic Tac Toe Game.pdb
+C:\Users\Cameron\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Tic Tac Toe Game.xml
+C:\Users\Cameron\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Cameron\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Cameron\source\repos\WindowsApp1\WindowsApp1\obj\Debug\TicTacToe Project.vbproj.GenerateResource.cache
+C:\Users\Cameron\source\repos\WindowsApp1\WindowsApp1\obj\Debug\TicTacToe Project.vbproj.CoreCompileInputs.cache
+C:\Users\Cameron\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Tic Tac Toe Game.exe
+C:\Users\Cameron\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Tic Tac Toe Game.xml
+C:\Users\Cameron\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Tic Tac Toe Game.pdb
